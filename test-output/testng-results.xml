@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-17T19:27:39 PDT" name="Default suite" finished-at="2023-07-17T19:27:43 PDT" duration-ms="3673">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T19:27:39 PDT" name="Default test" finished-at="2023-07-17T19:27:43 PDT" duration-ms="3673">
+      <class name="api.test.UserTest2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTest2@41a0aa7d]" started-at="2023-07-17T19:27:39 PDT" name="setup" finished-at="2023-07-17T19:27:40 PDT" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestUpdateUser()[pri:3, instance:api.test.UserTest2@41a0aa7d]" started-at="2023-07-17T19:27:40 PDT" name="TestUpdateUser" finished-at="2023-07-17T19:27:43 PDT" duration-ms="2661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUpdateUser -->
+      </class> <!-- api.test.UserTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
